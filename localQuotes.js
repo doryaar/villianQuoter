@@ -4,7 +4,7 @@ const localQuotes = [
     author: 'Joker',
   },
   {
-    text: "I'm not mad at all. I'm just differently sane",
+    text: "I'm not mad at all. I'm just differently sane.",
     author: 'Joker',
   },
   {
@@ -28,11 +28,11 @@ const localQuotes = [
     author: 'Joker',
   },
   {
-    text: "When the chips are down, these civilized people, they’ll eat each other",
+    text: "When the chips are down, these civilized people, they’ll eat each other.",
     author: 'Joker',
   },
   {
-    text: "They Laugh At me Because I’m Different. I laugh At Then Because The’re all the same",
+    text: "They Laugh At me Because I’m Different. I laugh At Then Because The’re all the same.",
     author: 'Joker',
   },
   {
@@ -48,7 +48,7 @@ const localQuotes = [
     author: 'Joker',
   },
   {
-    text: "When They Treat You Like A Joke, Leave Them Like Its Funny.",
+    text: "When they treat you like a joke, leave them like its funny.",
     author: 'Joker',
   },
   {
@@ -60,39 +60,39 @@ const localQuotes = [
     author: 'Joker',
   },
   {
-    text: "When The Fox Hears The Rabbit Scream, He Comes A-Runnin', But Not To Help!",
+    text: "When the fox hears the rabbit scream, he comes a-runnin', but not to help!",
     author: 'Hannibal Lecter',
   },
   {
-    text: "I Do Wish We Could Chat Longer, But I'm Having An Old Friend For Dinner.",
+    text: "I do wish we could chat longer, but I'm having an old friend for dinner.",
     author: 'Hannibal Lecter',
   },
   {
-    text: "Remarkable Boy. I Do Admire Your Courage. I Think I'll Eat Your Heart!",
+    text: "Remarkable boy. I do admire your courage. I think I'll eat your heart!",
     author: 'Hannibal Lecter',
   },
   {
-    text: "Killing Must Feel Good To God, Too. He Does It All The Time.",
+    text: "Killing must feel good to god, too. He does it all the time.",
     author: 'Hannibal Lecter',
   },
   {
-    text: "A Census Taker Once Tried To Test Me. I Ate His Liver With Some Fava Beans, And A Nice Chianti.",
+    text: "A census taker once tried to test me. I ate his liver with some fava beans, and a nice Chianti.",
     author: 'Hannibal Lecter',
   },
   {
-    text: "Without Death, We'd Be At A Loss. It's The Prospect Of Death That Drives Us To Greatness.",
+    text: "Without death, we'd be at a loss. It's the prospect of death that drives us to greatness.",
     author: 'Hannibal Lecter',
   },
   {
-    text: "Cruelty Is A Gift Humanity Has Given Itself.",
+    text: "Cruelty is a gift humanity has given itself.",
     author: 'Hannibal Lecter',
   },
   {
-    text: "Well Clarice, Have The Lambs Stopped Screaming?",
+    text: "Well Clarice, have the lambs stopped screaming?",
     author: 'Hannibal Lecter',
   },
   {
-    text: "I Never Feel Guilty Eating Anything.",
+    text: "I never feel guilty eating anything.",
     author: 'Hannibal Lecter',
   },
   {
@@ -144,23 +144,23 @@ const localQuotes = [
     author: 'Catwoman',
   },
   {
-    text: "Heroes Are Forgettable. They Try To Save The World... But Villains Are The Ones Who Change It.",
+    text: "Heroes are forgettable. They try to save the world... But villains are the ones who change it.",
     author: 'Dabi',
   },
   {
-    text: "Heroes And Villains Both Thrive On Violence, But We're Still Categorized... In The End, You're Just A Tool For Violence, Made To Keep Us Down. And Violence Only Breeds More Violence.",
+    text: "Heroes and villains both thrive on violence, but we're still categorized... In the end, you're just a tool for violence, made to keep us down. And violence only breeds more violence.",
     author: 'Tomura Shigaraki',
   },
   {
-    text: "All We Wish Is To Show Him That There Are Other Ways. Because You Kids Today... You Have Your Values Chosen For You.",
+    text: "All we wish is to show him that there are other ways. Because you kids today... You have your values chosen for you.",
     author: 'Mr. Compress',
   },
   {
-    text: "You Heroes Pretended To Be Society's Guardians. For Generations, You Pretended Not To See Those You Couldn't Protect & Swept Their Pain Under The Rug.",
+    text: "You heroes pretended to be society's guardians. For generations, you pretended not to see those you couldn't protect and swept their pain under the rug.",
     author: 'Tomura Shigaraki',
   },
   {
-    text: "When I Was Little, I Was Told To Stop Being Me! But That Doesn't Work! When You Shut Your Feeling Away, It Only Grows Inside!",
+    text: "When I was little, I was told to stop being me! But that doesn't work! When you shut your feeling away, it only grows inside!",
     author: 'Himiko Toga',
   },
   {
@@ -168,7 +168,7 @@ const localQuotes = [
     author: 'Voldemort',
   },
   {
-    text: "I'm The Bad Guy! I Don't Save The Day, I Don't Fly Off Into The Sunset, & I Don't Get The Girl! I'm Going Home.",
+    text: "I'm the bad guy! I don't save the day, I don't fly off into the sunset, & I don't get the girl! I'm going home.",
     author: 'Megamind',
   },
   {
@@ -176,11 +176,11 @@ const localQuotes = [
     author: 'Bane',
   },
   {
-    text: "There is no such thing as childhood. It's a myth",
+    text: "There is no such thing as childhood. It's a myth.",
     author: 'Bane',
   },
   {
-    text: "I Love Soul Food.",
+    text: "I love soul food.",
     author: 'Freddy Krueger',
   },
   {
@@ -208,7 +208,7 @@ const localQuotes = [
     author: 'Agent Smith',
   },
   {
-    text: "We're Not Here Because We're Free. We're Here Because We're NOT Free.",
+    text: "We're not here because we're free. We're here because we're not free.",
     author: 'Agent Smith',
   }
 ]
