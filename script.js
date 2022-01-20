@@ -20,6 +20,7 @@ function stopLoadingSpinner() {
 function newQuote() {
   // may not see spinner because its loading from local quote - quickly
   startLoadingSpinner();
+  setTimeout(() => {
   // Picking a random quote from localQuotes
   const quote = localQuotes[Math.floor(Math.random() * localQuotes.length)];
   authorText.textContent = quote.author;
@@ -33,6 +34,7 @@ function newQuote() {
   // Setting quote, hiding loader
   quoteText.textContent = quote.text;
   stopLoadingSpinner();
+  }, 2000);
 }
 
 // Tweet
